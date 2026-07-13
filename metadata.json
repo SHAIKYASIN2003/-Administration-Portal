@@ -1,0 +1,6 @@
+{
+  "name": "Panchayat & Urban Administration Portal",
+  "description": "A high-fidelity data entry, visualization, and public display portal for panchayat and municipal administrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
